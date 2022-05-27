@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**ShamaUgale/ShamaUgale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am Shama Ugale
 
 - 🔭 I’m currently working on ... Test automation and Infrastructure 
 - 🌱 I’m currently learning ... AI and ML testing
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... shama.ugale@gmail.com , @UgaleShama
 - 😄 Pronouns: ... She/Her
 - ⚡ Fun fact: ... 
--->
